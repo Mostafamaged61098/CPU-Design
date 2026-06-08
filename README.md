@@ -2,6 +2,10 @@
 A CPU Design Using Logisim
 using main logic Gates to build a 32 bit CPU 
 
-In order to view or edit this files, you will need to download and install Logisim and its Prerequists from the following link: https://github.com/logisim-evolution/logisim-evolution/releases
+In order to view or edit this files, you will need to download and install Logisim from one of the following links depending on your OS: 
+
+Windows: https://github.com/logisim-evolution/logisim-evolution/releases/download/v3.9.0/logisim-evolution-3.9.0-x86_64.msi
+Ubunutu: https://github.com/logisim-evolution/logisim-evolution/releases/download/v3.9.0/logisim-evolution_3.9.0_amd64.ubuntu22.04.deb
+RedHat: https://github.com/logisim-evolution/logisim-evolution/releases/download/v3.9.0/logisim-evolution-3.9.0-1.x86_64.rpm
 
 Author [Mostafa Maged] https://github.com/Mostafamaged61098 m.mostafamostafa.mm@gmail.com
